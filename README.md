@@ -23,7 +23,7 @@ Before running the project, make sure you have the following installed:
 
    ```bash
    git clone <repository-url>
-
+   
 2. Install Dependecies if needed
    ```bash
    npm install express mysql2 dotenv
@@ -34,8 +34,12 @@ Before running the project, make sure you have the following installed:
 
 Use any API enpoints of your choice POSTMAN or ISONMIA anything goes
 ### Create a Post
+* Endopoints => /posts
+* content is json {title , content}
+  
 ```json
   {
     "title": "Title or Heading here",
     "content": "Content here"
-  }
+}
+
