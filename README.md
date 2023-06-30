@@ -100,3 +100,4 @@ Use any API enpoints of your choice POSTMAN or ISONMIA anything goes
 Kindly create this schema or database in your mySQL and link to the project 
 
 This project will be updated as times go on for better implication
+Authentication process is being worked on .. - Just got started with JS 
